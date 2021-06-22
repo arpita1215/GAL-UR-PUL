@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+.bgcll{
+  background-image: linear-gradient(#41065c , #ff00ba );
+    color: white;
+}
+.navbar-toggler {
+    align-items: center;
+    background-color: #dfd5e6;
+    border-color: #00e3ff!important;
+    border-radius: .25rem;
+    display: flex;
+    height: 2.5rem;
+    justify-content: center;
+    padding: 0;
+    width: 2.5rem;
+}
+.carousel-item img{
+    width: 100%;
+padding-bottom: 10px;
+    height: 80vh;
+    }
+.bgcl{
+    background-image: linear-gradient(#41065c , #ff00ba);
+    color: white;
+}
+.btn{
+    background-color: #ff00ba;
+    color: white;
+}
+.motto{
+    background-color: #6ea8fe;
+}
+.card-body{
+    background-color: #41065c ;
+    color: white;
+}
+.bgclll{
+    background-color: #ff00ba;
+    color: white;
+}
+.brdr{
+    background-color: #fdccef;
+    padding: 20px 20px 0 20px;
+}
